@@ -1,0 +1,6 @@
+{
+  "name": "Phomemo D30 Label Studio",
+  "description": "Direct Web Bluetooth label printer studio for Phomemo D30. Design and print custom labels with text, barcodes, QR codes, and images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
